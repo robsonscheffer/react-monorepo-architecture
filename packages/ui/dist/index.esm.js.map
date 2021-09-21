@@ -1,0 +1,1 @@
+{"version":3,"file":"index.esm.js","sources":["../src/index.js"],"sourcesContent":["import React from 'react';\n\nconst Button = () => <button>Default</button>;\n\nconst ButtonPrimary = () => <button>Primary</button>;\n\nexport { Button, ButtonPrimary };\n"],"names":["Button","React","ButtonPrimary"],"mappings":"qBAEMA,IAAAA,EAAS,kBAAMC,0CAEfC,EAAgB,kBAAMD"}
